@@ -1,8 +1,8 @@
-George Floyd was in Minneapolis on business,  when four police officers murdered him in broad daylight
+*George Floyd was in Minneapolis on business,  when four police officers murdered him in broad daylight*
 
-He was dragged from his car, pinned to the ground, and choked as he begged for air, after being accused of presenting a counterfit bill
+*He was dragged from his car, pinned to the ground, and choked as he begged for air, after being accused of presenting a counterfit bill*
 
-Video recordings show officer Derek Chauvin employing a deadly chokehold as Floyd repeatedly states, "I can't breath"
+*Video recordings show officer Derek Chauvin employing a deadly chokehold as Floyd repeatedly states, "I can't breath"*
 
 # Resources
 
@@ -57,6 +57,4 @@ Use zip codes such as **90001** (L.A.) or **10001** (N.Y.) if outside of the US
 - [theblackout.org](http://theblackout.org/)
 
 ## Images
-![Justice For George](https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/05/JUSTICE-FOR-GEORGE.jpg)
 ![Iceburg of White Supremacy](https://external-preview.redd.it/J2US5rRgqvS9YA5J-IoSHUYxlZ__P-s54zIH6fpALQA.jpg?width=960&crop=smart&auto=webp&s=ecec343c53b60f570bbc7da4aaaf606b6790ef56)
-![Who is Derek Chauvin?](https://preview.redd.it/grdhy5cylk151.jpg?width=640&crop=smart&auto=webp&s=6df2d4b04805c13a7532413d686394fae8829a59)
