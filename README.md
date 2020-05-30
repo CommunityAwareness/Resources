@@ -55,6 +55,3 @@ Use zip codes such as **90001** (L.A.) or **10001** (N.Y.) if outside of the US
 ## Blackout Day
 - July 7, 2020
 - [theblackout.org](http://theblackout.org/)
-
-## Images
-![Iceburg of White Supremacy](https://external-preview.redd.it/J2US5rRgqvS9YA5J-IoSHUYxlZ__P-s54zIH6fpALQA.jpg?width=960&crop=smart&auto=webp&s=ecec343c53b60f570bbc7da4aaaf606b6790ef56)
