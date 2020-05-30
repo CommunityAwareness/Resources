@@ -10,7 +10,7 @@
 
 - [Official George Floyd Memorial Fund](https://www.gofundme.com/f/georgefloyd)
 - [Minnesota Freedom Fund](https://minnesotafreedomfund.org/donate) [(@MNFreedomFund)](https://twitter.com/MNFreedomFund)
-- [Black Lives Matter](https://secure.actblue.com/donate/ms_blm_homepage_2019)
+- [Black Lives Matter (ActBlue)](https://secure.actblue.com/donate/ms_blm_homepage_2019)
 - [Black Visions Collective](https://www.payit2.com/fundraiser/98548) [(@BlackVisionsMN
  )](https://twitter.com/BlackVisionsMN)
 - [Reclaim the Block](https://secure.everyaction.com/zae4prEeKESHBy0MKXTIcQ2) [(@reclaimtheblock
@@ -36,7 +36,7 @@ Use zip codes such as **90001** (L.A.) or **10001** (N.Y.) if outside of the US
 - Hennepin County Attourney: Michael O. Freeman
   - **Phone:** 612-348-5550
   - **Email:** [citzeninfo@hennepin.us](mailto:citzeninfo@hennepin.us)
-  - [hennepinattourney.org/about/contact](hennepinattourney.org/about/contact)
+  - [hennepinattourney.org/about/contact](www.hennepinattourney.org/about/contact)
 - Minneapolis Mayor: Jacob Frey
   - **Phone:** 612-673-2100
   - "I want justice for the murder of George Floyd. I demand the prosecution of the 4 officers involved. This is a racist hate crime and abuse of power"
