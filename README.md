@@ -8,15 +8,15 @@
 
 ## Donations
 
-- [Official George Floyd Memorial Fund (GoFundMe)](https://www.gofundme.com/f/georgefloyd)
+- [Official George Floyd Memorial Fund](https://www.gofundme.com/f/georgefloyd)
 - [Minnesota Freedom Fund](https://minnesotafreedomfund.org/donate) [(@MNFreedomFund)](https://twitter.com/MNFreedomFund)
-- [Black Lives Matter (ActBlue)](https://secure.actblue.com/donate/ms_blm_homepage_2019)
+- [Black Lives Matter](https://secure.actblue.com/donate/ms_blm_homepage_2019)
 - [Black Visions Collective](https://www.payit2.com/fundraiser/98548) [(@BlackVisionsMN
  )](https://twitter.com/BlackVisionsMN)
 - [Reclaim the Block](https://secure.everyaction.com/zae4prEeKESHBy0MKXTIcQ2) [(@reclaimtheblock
  )](https://twitter.com/reclaimtheblock)
 - [Unicorn Riot](https://unicornriot.ninja/donate/) [(@UR_Ninja)](https://twitter.com/UR_Ninja)
-- [I Run With Maud (Ahmaud Arbey GoFundMe)](https://www.gofundme.com/f/i-run-with-maud)
+- [I Run With Maud Ahmaud Arbey GoFundMe](https://www.gofundme.com/f/i-run-with-maud)
 
 ## Petitions
 Use zip codes such as **90001** (L.A.) or **10001** (N.Y.) if outside of the US
