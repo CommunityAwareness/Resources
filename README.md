@@ -70,6 +70,8 @@ Use zip codes such as **90001** (L.A.) or **10001** (N.Y.) if outside of the US
   - **Phone:** 612-673-2345
   - **Email:** [police@minneapolismn.gov](mailto:police@minneapolismn.gov)
 
+## Antiracist Allyship Starter Pack (Articles, Books, PDFs, Podcasts, Films, etc.)
+[Google Sheets Link](https://docs.google.com/spreadsheets/d/1bUJrgX8vspyy7YttiEC2vD0DawrpPYiZs94V0ov7qZQ/edit?usp=sharing)
 
 ## Articles
 - [*Black & Asian Solidarity in NYC: What We've Learned* (Facebook Video)](https://www.facebook.com/BUFU.BYUSFORUS/videos/1214147432261027/)
