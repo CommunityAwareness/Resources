@@ -37,7 +37,7 @@
 ### Atlanta, GA
 - [Atlanta Solidarity Fund](https://actionnetwork.org/fundraising/support-justiceforgeorgefloyd-protesters-in-atlanta)
 
-## Columbus, OH
+### Columbus, OH
 - [Columbus Freedom Fund](https://www.paypal.me/columbusfreedomfund)
 
 ### Denver, CO
