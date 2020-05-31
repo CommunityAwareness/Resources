@@ -4,7 +4,7 @@
 
 *He was dragged from his car, pinned to the ground, and choked as he begged for air, after being accused of presenting a counterfit bill*
 
-*Video recordings show officer Derek Chauvin employing a deadly chokehold as Floyd repeatedly states, "I can't breath"*
+*Video recordings show officer Derek Chauvin employing a deadly chokehold as Floyd repeatedly states, "I can't breathe"*
 
 # Resources
 
