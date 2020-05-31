@@ -59,9 +59,6 @@ Use zip codes such as **90001** (L.A.) or **10001** (N.Y.) if outside of the US
 - Text **JUSTICE** to **668366**
 
 ## Contacts
-- 612-324-4499
-  - Redirects to local MN officials
-  - Features recording by [@shaunking](https://www.instagram.com/shaunking/) walking through phone call process and background information
 - Hennepin County Attourney: Michael O. Freeman
   - **Phone:** 612-348-5550
   - **Email:** [citzeninfo@hennepin.us](mailto:citzeninfo@hennepin.us)
