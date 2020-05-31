@@ -1,4 +1,4 @@
-<img src="https://yoors-media-uploads-adsfairbv.netdna-ssl.com/160468/photos/1590637732-Screenshot_20200528_084340_1590637732.jpg" alt="" width="250"/>
+<img src="https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/05/JUSTICE-FOR-GEORGE.jpg" alt="" width="300"/>
 
 *George Floyd was in Minneapolis on business,  when four police officers murdered him in broad daylight*
 
