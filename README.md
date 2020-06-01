@@ -83,6 +83,10 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 ## Antiracist Allyship Starter Pack (Articles, Books, PDFs, Podcasts, Films, etc.)
 [Google Sheets Link](https://docs.google.com/spreadsheets/d/1bUJrgX8vspyy7YttiEC2vD0DawrpPYiZs94V0ov7qZQ/edit?usp=sharing)
 
+## Twitter Threads on Researched Policies to Reduce Police Brutality
+- [Thread by Samuel Sinyangwe (@samswey)](https://twitter.com/samswey/status/1180655701271732224)
+- [Thread by Jennifer Doleac (@jenniferdoleac)](https://twitter.com/jenniferdoleac/status/1267112352010420227)
+
 ## Twitter Threads
 - [Books: how to be actively antiracist](https://twitter.com/waIlflwers/status/1266798339552497664)
 - [Mental Health Resources for Black People](https://twitter.com/mayarichardsun/status/1265676677549559809)
