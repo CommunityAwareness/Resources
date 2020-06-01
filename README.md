@@ -214,7 +214,7 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [BLM Google Doc 3](https://docs.google.com/document/d/1-0KC83vYfVQ-2freQveH43PWxuab2uWDEGolzrNoIks/mobilebasic)
 - [BLM Google Doc 4](https://docs.google.com/document/d/12y7-Wa4gi8HUeFTv17gPcbMGuVX5cqIudLJmhOrq1-k/mobilebasic)
 - [Books by Black Activists](https://drive.google.com/drive/u/0/folders/1mljH99Nwy-SfgbDec-UDHSrrN1_JLmwB)
-- 
+
 # Books
 - [*So You Want to Talk About Race* by Ijeoma Oluo](http://www.ijeomaoluo.com/writing) [(@IjeomaOluo)](https://twitter.com/IjeomaOluo)
 - [*White Fragility: Why It's So Hard for White People to Talk About Racism* by Robin DiAngelo](https://robindiangelo.com/publications/)
