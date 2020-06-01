@@ -6,14 +6,29 @@
 
 *Video recordings show officer Derek Chauvin employing a deadly chokehold as Floyd repeatedly states, "I can't breathe"*
 
-# Resources
+**TABLE OF CONTENTS**
+- [Voter Registration (U.S.)](#voter-registration-us)
+- [Petitions](#petitions)
+- [Donations](#donations)
+  - [To The Victims](#to-the-victims)
+  - [To The Protestors](#to-the-protestors)
+    - [State/City-Specific Funds](#statecity-specific-funds)
+  - [Other Important Donations](#other-important-donations)
+- [Contacts](#contacts)
+- [Twitter Threads](#twitter-threads)
+  - [Twitter Threads on Researched Policies to Reduce Police Brutality](#twitter-threads-on-researched-policies-to-reduce-police-brutality)
+- [Articles](#articles)
+- [Google Drive](#google-drive)
+- [Books](#books)
+- [Blackout Day](#blackout-day)
+- [Other Compilation Lists](#other-compilation-lists)
 
-## Voter Registration (U.S.)
+# Voter Registration (U.S.)
 *Please register to vote if you have not already done so! Voting is another form of voicing ourselves that shouldn't be overlooked*
 - [Vote.gov](vote.gov)
 - [Ballotpedia Online Voter Registration](https://ballotpedia.org/Online_voter_registration)
 
-## Petitions
+# Petitions
 Please ***DO NOT*** donate when change.org asks you to donate after signing a petition. Despite their name, they are a private corporation and *NONE OF THE FUNDS* raised from their petitions go towards organizations or people who put the petition together
 
 Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (N.Y.) if outside of the US
@@ -57,8 +72,8 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - Text **ENOUGH** To **55156**
 - List of more petitions [here](https://blacklivesmatters.carrd.co/#more)
 
-## Donations
-### To The Victims
+# Donations
+## To The Victims
 - [George Floyd Memorial Fund](https://www.gofundme.com/f/georgefloyd)
 - [George Floyd’s Sister’s Fund](https://www.gofundme.com/f/george-floyd-bigfloyd)
 - [Ahmaud Arbery Fund](https://www.gofundme.com/f/i-run-with-maud)
@@ -74,7 +89,7 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [James Scurlock Fund](https://www.gofundme.com/f/for-james-scurlocks-family)
 - [Support For Leslie Fund](https://www.gofundme.com/f/csgskf-love-and-support-for-leslie)
 
-### To The Protestors
+## To The Protestors
 - [Split Donation to 37 Bail Funds](https://secure.actblue.com/donate/bail_funds_george_floyd)
 - [National Bail Fund Network](https://www.communityjusticeexchange.org/nbfn-directory)
 - [Bail Fund Google Doc](https://docs.google.com/document/d/1fb2cioBcCO47L_oGPsjdGVWDAc3RTHU2tIpDtekWKs0/mobilebasic)
@@ -86,7 +101,7 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [Femme Empowerment Project](https://venmo.com/femmeempowermentproject)
   - A Venmo to donate to Minneapolis activists. Be sure to set your donation to "private." You can even specify how you want your donation to be used-- medic training, medic gear, or jail support.
 
-#### State/City-Specific Funds
+### State/City-Specific Funds
 - [Community Justice Exchange (compiled list of bail funds across the country)](https://www.communityjusticeexchange.org/nbfn-directory)
 - [Google Doc of Bail Funds](https://docs.google.com/document/d/1X4-YS3vFn5CLL9QtJSU0xqmTh_h8XilXgOqGAjZISBI/)
 - [Atlanta Solidarity Fund](https://actionnetwork.org/groups/atlanta-solidarity-fund)
@@ -129,7 +144,7 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [Vegas Bail Fund](https://secure.actblue.com/donate/vegasfreedomfund)
 - [VA - Humanities Behind Bars](http://www.humanitiesbehindbars.org/home/donate/)
 
-### Other Important Donations
+## Other Important Donations
 - [BLM Fund](https://secure.actblue.com/donate/ms_blm_homepage_2019)
 - [BLM LA Fund](https://www.gofundme.com/f/blmla)
 - [Small Businesses Rebuild](https://docs.google.com/document/d/1jy_Y714oFhb7APUOk4Y4gEPzWpyxswzHa_sylQLVmJ8/mobilebasic)
@@ -150,7 +165,7 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - Sybrina Fulton, Trayvon Martin’s Mother Is Running For Office In Florida, please donate to her [here](https://sybrinafulton.com/)
 - Lucy McBath is also in a race for re-election in a red district. Her son Jordan Davis was murdered at 17 by a racist over music please donate to her [here](https://secure.actblue.com/donate/support-lucy?refcode=splash)
 
-## Contacts
+# Contacts
 - [Justice for George Floyd Contact Outline and Info](https://docs.google.com/document/d/1Ch191gFZ6TGjTYTRSPa7II5gKGNEuvV2vXX7bC_weaU/mobilebasic)
   - Hennepin County Attourney: Michael O. Freeman
     - **Phone:** 612-348-5550
@@ -164,14 +179,7 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
     - **Email:** [police@minneapolismn.gov](mailto:police@minneapolismn.gov)
 - Information on Cops Involved in Police Brutality [here](https://docs.google.com/spreadsheets/d/1M__akYuQTzZlFZ-0ruCu3FAstxB72fpYqL8mHNDO1Co/htmlview#gid=0)
 
-## Antiracist Allyship Starter Pack (Articles, Books, PDFs, Podcasts, Films, etc.)
-[Google Sheets Link](https://docs.google.com/spreadsheets/d/1bUJrgX8vspyy7YttiEC2vD0DawrpPYiZs94V0ov7qZQ/edit?usp=sharing)
-
-## Twitter Threads on Researched Policies to Reduce Police Brutality
-- [Thread by Samuel Sinyangwe (@samswey)](https://twitter.com/samswey/status/1180655701271732224)
-- [Thread by Jennifer Doleac (@jenniferdoleac)](https://twitter.com/jenniferdoleac/status/1267112352010420227)
-
-## Twitter Threads
+# Twitter Threads
 - [Books: how to be actively antiracist](https://twitter.com/waIlflwers/status/1266798339552497664)
 - [Mental Health Resources for Black People](https://twitter.com/mayarichardsun/status/1265676677549559809)
 - [Why Protesters Attacked Target in MN ](https://twitter.com/denisecheeseman/status/1265885197251293189)
@@ -180,7 +188,11 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [Reverse Racism is a Myth](https://twitter.com/morelftv/status/1265768096297607169)
 - [George Floyd: How can I help from the UK?](https://twitter.com/softparisian/status/1266665978475286528)
 
-## Articles
+## Twitter Threads on Researched Policies to Reduce Police Brutality
+- [Thread by Samuel Sinyangwe (@samswey)](https://twitter.com/samswey/status/1180655701271732224)
+- [Thread by Jennifer Doleac (@jenniferdoleac)](https://twitter.com/jenniferdoleac/status/1267112352010420227)
+
+# Articles
 - [75 Things You Can Do For Racial Justice](https://medium.com/equality-includes-you/what-white-people-can-do-for-racial-justice-f2d18b0e0234)
 - [Being African American & LGBTQ: An Introduction (Human Rights Campaign)](https://www.hrc.org/resources/being-african-american-lgbtq-an-introduction)
 - [*Black & Asian Solidarity in NYC: What We've Learned* (Facebook Video)](https://www.facebook.com/BUFU.BYUSFORUS/videos/1214147432261027/)
@@ -191,7 +203,8 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [*Why People of Color Need Spaces Without White People* by Kelsey Blackwell](https://arrow-journal.org/why-people-of-color-need-spaces-without-white-people/)
 - [*How Cash Bail is Tied to Systematic Racism* by by Khalid El Khatib](https://www.papermag.com/cash-bail-systematic-racism-2646133756.html)
 
-## Google Drive
+# Google Drive
+- [Antiracist Allyship Starter Pack (Articles, Books, PDFs, Podcasts, Films, etc.)](https://docs.google.com/spreadsheets/d/1bUJrgX8vspyy7YttiEC2vD0DawrpPYiZs94V0ov7qZQ/edit?usp=sharing)
 - [Letters to Your Parents About BLM](https://docs.google.com/document/d/1qwon6Q-h3YC2n_vZGKIVxZxEhXG8ZQah4IVCMQzGaUk/edit)
 - [Racism and Anti-Blackness](https://docs.google.com/spreadsheets/d/1bUJrgX8vspyy7YttiEC2vD0DawrpPYiZs94V0ov7qZQ/htmlview)
 - [Anti-racism resources for white people](https://docs.google.com/document/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs/mobilebasic)
@@ -202,15 +215,15 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [BLM Google Doc 3](https://docs.google.com/document/d/1-0KC83vYfVQ-2freQveH43PWxuab2uWDEGolzrNoIks/mobilebasic)
 - [BLM Google Doc 4](https://docs.google.com/document/d/12y7-Wa4gi8HUeFTv17gPcbMGuVX5cqIudLJmhOrq1-k/mobilebasic)
 - [Books by Black Activists](https://drive.google.com/drive/u/0/folders/1mljH99Nwy-SfgbDec-UDHSrrN1_JLmwB)
-
-## Books
+- 
+# Books
 - [*So You Want to Talk About Race* by Ijeoma Oluo](http://www.ijeomaoluo.com/writing) [(@IjeomaOluo)](https://twitter.com/IjeomaOluo)
 - [*White Fragility: Why It's So Hard for White People to Talk About Racism* by Robin DiAngelo](https://robindiangelo.com/publications/)
 
-## Blackout Day
+# Blackout Day
 - July 7, 2020
 - [theblackout.org](http://theblackout.org/)
 
-## Other Compilation Lists
+# Other Compilation Lists
 - [Black Lives Matter Carrd](https://blacklivesmatters.carrd.co/)
 - [Donation Places Google Doc](https://docs.google.com/document/d/12y7-Wa4gi8HUeFTv17gPcbMGuVX5cqIudLJmhOrq1-k/mobilebasic)
