@@ -192,7 +192,7 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [Thread by Jennifer Doleac (@jenniferdoleac)](https://twitter.com/jenniferdoleac/status/1267112352010420227)
 
 # Articles
-- [*How to Make this Moment the Turning Point for Real Change* by Barack Obama]https://medium.com/@BarackObama/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067
+- [*How to Make this Moment the Turning Point for Real Change* by Barack Obama](https://medium.com/@BarackObama/how-to-make-this-moment-the-turning-point-for-real-change-9fa209806067)
 - [*75 Things You Can Do For Racial Justice*](https://medium.com/equality-includes-you/what-white-people-can-do-for-racial-justice-f2d18b0e0234)
 - [*Being African American & LGBTQ: An Introduction* (Human Rights Campaign)](https://www.hrc.org/resources/being-african-american-lgbtq-an-introduction)
 - [*Black & Asian Solidarity in NYC: What We've Learned* (Facebook Video)](https://www.facebook.com/BUFU.BYUSFORUS/videos/1214147432261027/)
