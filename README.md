@@ -33,7 +33,7 @@ Please ***DO NOT*** donate when change.org asks you to donate after signing a pe
 
 Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (N.Y.) if outside of the US
 
-- [#JusticeforFloyd (ColorOfChange)](https://act.colorofchange.org/sign/justiceforfloyd_george_floyd_minneapolis)
+- [#JusticeforFloyd (ColorsOfChange)](https://act.colorofchange.org/sign/justiceforfloyd_george_floyd_minneapolis)
 - [#JusticeforBre (ColorsOfChange)](https://act.colorofchange.org/sign/justiceforbre-breonna-taylor-officers-fired/)
 - [#JusticeforAhmaud (ColorsOfChange)](https://act.colorofchange.org/sign/demand-justice-ahmaud/)
 - [George Floyd (change.org)](https://www.change.org/p/mayor-jacob-frey-justice-for-george-floyd)
@@ -161,7 +161,7 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [Change The NYPD](https://northstarfund.org/give/donate/donate-to-communities-united-for-police-reform/)
 - [The Marshall Project](https://www.themarshallproject.org/donate)
 - [Lake Street Cleanup](https://www.welovelakestreet.com/)
-- Sybrina Fulton, Trayvon Martin’s Mother Is Running For Office In Florida, please donate to her [here](https://sybrinafulton.com/)
+- Sybrina Fulton, Trayvon Martin’s Mother is Running For Office In Florida, please donate to her [here](https://sybrinafulton.com/)
 - Lucy McBath is also in a race for re-election in a red district. Her son Jordan Davis was murdered at 17 by a racist over music please donate to her [here](https://secure.actblue.com/donate/support-lucy?refcode=splash)
 
 # Contacts
