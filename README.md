@@ -91,7 +91,7 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 
 ## To The Protestors
 - [Split Donation to 37 Bail Funds](https://secure.actblue.com/donate/bail_funds_george_floyd)
-- [National Bail Fund Network](https://www.communityjusticeexchange.org/nbfn-directory)
+- [National Bail Fund Network (compiled list of bail funds across the country)](https://www.communityjusticeexchange.org/nbfn-directory)
 - [Bail Fund Google Doc](https://docs.google.com/document/d/1fb2cioBcCO47L_oGPsjdGVWDAc3RTHU2tIpDtekWKs0/mobilebasic)
 - [Bail Fund Thread](https://twitter.com/danitycafe/status/1266806985749602304?s=21)
 - [Gas Mask Fund](https://twitter.com/isakdouah/status/1266858141913878528?s=21)
@@ -100,10 +100,9 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [Messiah Young and Taniya Pilgrim](https://www.gofundme.com/f/messiah-young-and-taniyah-pilgrim-bail-money)
 - [Femme Empowerment Project](https://venmo.com/femmeempowermentproject)
   - A Venmo to donate to Minneapolis activists. Be sure to set your donation to "private." You can even specify how you want your donation to be used-- medic training, medic gear, or jail support.
+- [Google Doc of Bail Funds](https://docs.google.com/document/d/1X4-YS3vFn5CLL9QtJSU0xqmTh_h8XilXgOqGAjZISBI/)
 
 ### State/City-Specific Funds
-- [Community Justice Exchange (compiled list of bail funds across the country)](https://www.communityjusticeexchange.org/nbfn-directory)
-- [Google Doc of Bail Funds](https://docs.google.com/document/d/1X4-YS3vFn5CLL9QtJSU0xqmTh_h8XilXgOqGAjZISBI/)
 - [Atlanta Solidarity Fund](https://actionnetwork.org/groups/atlanta-solidarity-fund)
 - [Bay Area ARC Bail Fund](https://rally.org/covers/3YdX1E8gE2A)
 - [Bay Area Bail Fund](https://brooklynbailfund.org/donation-form)
