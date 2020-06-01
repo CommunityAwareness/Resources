@@ -21,15 +21,41 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [#JusticeforFloyd (ColorOfChange)](https://act.colorofchange.org/sign/justiceforfloyd_george_floyd_minneapolis)
 - [#JusticeforBre (ColorsOfChange)](https://act.colorofchange.org/sign/justiceforbre-breonna-taylor-officers-fired/)
 - [#JusticeforAhmaud (ColorsOfChange)](https://act.colorofchange.org/sign/demand-justice-ahmaud/)
-- [Justice for George Floyd (change.org)](https://www.change.org/p/mayor-jacob-frey-justice-for-george-floyd)
+- [George Floyd (change.org)](https://www.change.org/p/mayor-jacob-frey-justice-for-george-floyd)
 - [Justice for Big Floyd](https://www.justiceforbigfloyd.com/)
 - [Petition to Charge MN Police Officers (change.org)](https://www.change.org/p/change-org-the-minneapolis-police-officers-to-be-charged-for-murder-after-killing-innocent-black-man)
-- [Justice for Ahmaud Arbery (change.org)](https://www.change.org/p/district-attorney-tom-durden-justice-for-ahmaud-arbery-i-run-with-maud)
-- [Justice for Breonna Taylor (change.org)](https://www.change.org/p/andy-beshear-justice-for-breonna-taylor)
-- [Justice for Dion Johnson (change.org)](https://www.change.org/p/phoenix-police-department-justice-for-dion-johnson)
+- [Ahmaud Arbery (change.org)](https://www.change.org/p/federal-bureau-of-investigation-disbarment-of-george-e-barnhill)
+- [Ahmaud Arbery 2 (change.org)](https://www.change.org/p/human-rights-campaign-justice-for-ahmuad-aubrey-2)
+- [Ahmaud Arbery 3 (change.org)](https://www.change.org/p/district-attorney-tom-durden-justice-for-ahmaud-arbery-i-run-with-maud)
+- [Breonna Taylor (moveon.org)](https://sign.moveon.org/petitions/justiceforbre-police-officers-who-killed-breonna-taylor-must-be-fired)
+- [Breonna Taylor (colorofchange.org)](https://act.colorofchange.org/sign/justiceforbre-breonna-taylor-officers-fired)
+- [Breonna Taylor (justiceforbreonna.org)](https://action.justiceforbreonna.org/sign/BreonnaWasEssential/)
+- [Dion Johnson (change.org)](https://www.change.org/p/phoenix-police-department-justice-for-dion-johnson)
+- [Pass The Georgia Hate Crime Bill](https://www.change.org/p/governor-brian-kemp-justice-for-ahmaud-arbery)
+- [Defund MPD](https://secure.everyaction.com/eR7GA7oz70GL8doBq19LrA2)
+- [Life Sentence For Police Brutality](https://www.change.org/p/department-of-justice-mandatory-life-sentence-for-police-brutality)
+- [Regis Korchinski (change.org)](https://t.co/fqxvTJ76gE)
+- [Tony McDade (change.org)](https://www.change.org/p/black-lives-matter-activists-justice-for-tony-mcdade)
+- [Tony McDade (actionnetwork.org)](https://actionnetwork.org/letters/demand-justice-for-tony-mcdade?source=direct_link&)
+- [Joao Pedro (change.org)](http://chng.it/FjJ7ZD4q5p)
+- [Julius Jones (change.org)](https://www.change.org/p/julius-jones-is-innocent-don-t-let-him-be-executed-by-the-state-of-oklahoma)
+- [Belly Mujinga (change.org)](https://www.change.org/p/govia-thameslink-justice-for-belly-mujinga)
+- [Willie Simmons (change.org)](https://www.change.org/p/alabama-governor-kay-ivey-willie-simmons-has-served-38-years-for-a-9-robbery)
+- [Hands Up Act (change.org)](https://www.change.org/p/us-senate-hands-up-act)
+- [National Action Against Police Brutality](https://www.change.org/p/national-action-against-police-brutality-and-murder)
+- [Kyjuanzi Harris (change.org)](https://www.change.org/p/illinois-governor-correcting-a-wrongful-conviction-kyjuanzi-harris)
+- [Alejandro Vargas Martinez (change.org)](https://www.change.org/p/florida-police-department-justice-for-alejandro-vargas-martinez)
+- [Sean Reed (change.org)](https://www.change.org/p/white-house-justice-for-sean)
+- [Sean Reed 2 (change.org)](https://www.change.org/p/mayor-joe-hogsett-justice-for-sean-reed)
+- [Kendrick Johnson (change.org)](https://www.change.org/p/united-states-supreme-court-justice-for-kendrick-johnson)
+- [Tamir Rice (change.org)](https://www.change.org/p/department-of-justice-investigate-the-killing-of-tamir-rice)
+- [Tamir Rice 2 (change.org)](https://www.change.org/p/justice-for-tamir-rice-appoint-a-special-prosecutor)
+- [Fire Racist Criminal From The NYPD](https://www.change.org/p/nypd-fire-racist-criminal-michael-j-reynolds-from-the-nypd)
+- [Jamee Johnson (organizefor.org)](https://campaigns.organizefor.org/petitions/justice-for-jamee-johnson)
 - Text **FLOYD** to **55156**
 - Text **JUSTICE** to **668366**
 - Text **ENOUGH** To **55156**
+- List of more petitions [here](https://blacklivesmatters.carrd.co/#more)
 
 ## Donations
 ### To The Victims
@@ -136,6 +162,7 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
   - Minneapolis Police Department
     - **Phone:** 612-673-2345
     - **Email:** [police@minneapolismn.gov](mailto:police@minneapolismn.gov)
+- Information on Cops Involved in Police Brutality [here](https://docs.google.com/spreadsheets/d/1M__akYuQTzZlFZ-0ruCu3FAstxB72fpYqL8mHNDO1Co/htmlview#gid=0)
 
 ## Antiracist Allyship Starter Pack (Articles, Books, PDFs, Podcasts, Films, etc.)
 [Google Sheets Link](https://docs.google.com/spreadsheets/d/1bUJrgX8vspyy7YttiEC2vD0DawrpPYiZs94V0ov7qZQ/edit?usp=sharing)
@@ -175,7 +202,7 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [BLM Google Doc 3](https://docs.google.com/document/d/1-0KC83vYfVQ-2freQveH43PWxuab2uWDEGolzrNoIks/mobilebasic)
 - [BLM Google Doc 4](https://docs.google.com/document/d/12y7-Wa4gi8HUeFTv17gPcbMGuVX5cqIudLJmhOrq1-k/mobilebasic)
 - [Books by Black Activists](https://drive.google.com/drive/u/0/folders/1mljH99Nwy-SfgbDec-UDHSrrN1_JLmwB)
-- 
+
 ## Books
 - [*So You Want to Talk About Race* by Ijeoma Oluo](http://www.ijeomaoluo.com/writing) [(@IjeomaOluo)](https://twitter.com/IjeomaOluo)
 - [*White Fragility: Why It's So Hard for White People to Talk About Racism* by Robin DiAngelo](https://robindiangelo.com/publications/)
