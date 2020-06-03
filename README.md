@@ -7,14 +7,18 @@
 *Video recordings show officer Derek Chauvin employing a deadly chokehold as Floyd repeatedly states, "I can't breathe"*
 
 **TABLE OF CONTENTS**
+- [Auto-Generating Email Links](#auto-generating-email-links)
 - [Voter Registration (U.S.)](#voter-registration-us)
 - [Petitions](#petitions)
 - [Donations](#donations)
   - [To The Victims](#to-the-victims)
   - [To The Protestors](#to-the-protestors)
     - [State/City-Specific Funds](#statecity-specific-funds)
+  - [To Black Owned Businesses](#to-black-owned-businesses)
   - [Other Important Donations](#other-important-donations)
+  - [Donate Without No Money](#donate-without-no-money)
 - [Contacts](#contacts)
+- [Researched on Effective Measures to Reduce Police Brutality](#researched-on-effective-measures-to-reduce-police-brutality)
 - [Twitter Threads](#twitter-threads)
   - [Twitter Threads on Researched Policies to Reduce Police Brutality](#twitter-threads-on-researched-policies-to-reduce-police-brutality)
 - [Articles](#articles)
@@ -22,6 +26,14 @@
 - [Books](#books)
 - [Blackout Day](#blackout-day)
 - [Other Compilation Lists](#other-compilation-lists)
+
+# Auto-Generating Email Links
+*These links will automatically generate an email with all fields (TO/SUBJECT/BODY) filled out in a templated format*
+- [Email MN police/government demanding accountability for murder of George Floyd](https://tinyurl.com/emailforfloyd)
+- [Email Los Angeles Mayor Eric Garcetti demanding the firing of LAPD Police Chief Michel Moore](https://tinyurl.com/firemmoore)
+  - [Video of Moore's comments](https://www.reddit.com/r/PublicFreakout/comments/guyo7v/lapd_chief_michael_moore_just_said_that_george/)
+  - [Video Mirror #1](https://tuckbot.tv/#/watch/guyo7v)
+  - [Video Mirror #2](https://peertube.live/videos/watch/d4fe80ae-1fd3-4093-a18a-d531782dfcf7)
 
 # Voter Registration (U.S.)
 *Please register to vote if you have not already done so! Voting is another form of voicing ourselves that shouldn't be overlooked*
@@ -73,6 +85,12 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - List of more petitions [here](https://blacklivesmatters.carrd.co/#more)
 
 # Donations
+If you want to easily donate to multiple organizations, then you can use [**THIS LINK**](https://secure.actblue.com/donate/ab_mn) have your donation split amongst 12 different organization
+
+- [Mutual Aid Funds](https://mutualaid.carrd.co/)
+- Do Not Donate Money to Shaun King
+  - Article: [*Shaun King Keeps Raising Money, and Questions About Where It Goes*](https://www.thedailybeast.com/shaun-king-keeps-raising-money-and-questions-about-where-it-goes-3)
+
 ## To The Victims
 - [George Floyd Memorial Fund](https://www.gofundme.com/f/georgefloyd)
 - [George Floyd’s Sister’s Fund](https://www.gofundme.com/f/george-floyd-bigfloyd)
@@ -143,7 +161,26 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [Vegas Bail Fund](https://secure.actblue.com/donate/vegasfreedomfund)
 - [VA - Humanities Behind Bars](http://www.humanitiesbehindbars.org/home/donate/)
 
+## To Black Owned Businesses
+- [Black Owned Businesses Thread](https://twitter.com/hopewrlds/status/1266856971610632192?s=21)
+- [Black Owned Businesses Atlanta](https://www.gofundme.com/f/supportblackownedbusinesses)
+- [Burgerim Dallas Texas](https://www.instagram.com/p/CAzyT5gpxZ6/?igshid=1bnxp0dxa7jrh)
+  - Cashapp: $innnn
+- [EMW Women’s](https://emwwomens.com/donate-kentucky-reproductive-freedom-fund/)
+- [Scores Sports Bar Rebuild](https://www.gofundme.com/f/scores-bar-mpls-riot-rebuild)
+- [SacDelux Consignment Store](https://www.gofundme.com/f/support-sacdelux-consignment-store)
+- [Help Trio Thrive](https://www.gofundme.com/f/helptriothrive)
+- [Rebuild Juiced Up Vapors](https://www.gofundme.com/f/juiced-up-vapors-riot-break-in)
+- [Atlanta Black Owned Business Relief](https://www.gofundme.com/f/atlanta-black-owned-business-relief)
+- [Rebuild Guns & Roses Boutique](https://www.gofundme.com/f/fv47qs-protect-our-community)
+- [Go Get It Tobacco](https://www.gofundme.com/f/z8puys-gogetit)
+- [Somali Owned Businesses](https://www.gofundme.com/f/somali-owned-businesses-affected-by-rioters)
+- [Rubuild Shoe Mountain](https://www.gofundme.com/f/rebuilding-shoe-mountain)
+- [Rubuild The Block](https://www.gofundme.com/f/rebuild-the-block-4-black-owned-small-businesses)
+- [Minneapolis Black Owned Business Fund](https://www.gofundme.com/f/20s9h91uao)
+
 ## Other Important Donations
+- [International Donations List](https://blacklivesmatters.carrd.co/#international)
 - [BLM Fund](https://secure.actblue.com/donate/ms_blm_homepage_2019)
 - [BLM LA Fund](https://www.gofundme.com/f/blmla)
 - [Small Businesses Rebuild](https://docs.google.com/document/d/1jy_Y714oFhb7APUOk4Y4gEPzWpyxswzHa_sylQLVmJ8/mobilebasic)
@@ -164,6 +201,13 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - Sybrina Fulton, Trayvon Martin’s Mother is Running For Office In Florida, please donate to her [here](https://sybrinafulton.com/)
 - Lucy McBath is also in a race for re-election in a red district. Her son Jordan Davis was murdered at 17 by a racist over music please donate to her [here](https://secure.actblue.com/donate/support-lucy?refcode=splash)
 
+
+
+## Donate Without No Money
+*If viewing YouTube videos, please turn off AdBlocker, do not skip ads, keep the volume at 50% or higher, keep the resolution in 480p or higher*
+- [BLACK LIVES MATTER - a way of donating to the movement](https://www.youtube.com/playlist?list=PLtooIklzheqzORPbQBiEZKsw2T4s6SUxv)
+- [Donate by Streaming Playlist](https://www.youtube.com/watch?v=bCgLa25fDHM&feature=youtu.be)
+
 # Contacts
 - [Justice for George Floyd Contact Outline and Info](https://docs.google.com/document/d/1Ch191gFZ6TGjTYTRSPa7II5gKGNEuvV2vXX7bC_weaU/mobilebasic)
   - Hennepin County Attourney: Michael O. Freeman
@@ -177,6 +221,10 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
     - **Phone:** 612-673-2345
     - **Email:** [police@minneapolismn.gov](mailto:police@minneapolismn.gov)
 - Information on Cops Involved in Police Brutality [here](https://docs.google.com/spreadsheets/d/1M__akYuQTzZlFZ-0ruCu3FAstxB72fpYqL8mHNDO1Co/htmlview#gid=0)
+
+# Researched on Effective Measures to Reduce Police Brutality
+- [Campaign Zero](https://www.joincampaignzero.org/)
+- [Use Of Force Project](http://useofforceproject.org/)
 
 # Twitter Threads
 - [Books: how to be actively antiracist](https://twitter.com/waIlflwers/status/1266798339552497664)
@@ -204,6 +252,8 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [*How Cash Bail is Tied to Systematic Racism* by by Khalid El Khatib](https://www.papermag.com/cash-bail-systematic-racism-2646133756.html)
 
 # Google Drive
+- [#BLM Canada](https://docs.google.com/document/d/1l0TGDdHJIO6FGkKNWBBXINUmfGSXdM8eK6eY2ZmrK8Q/mobilebasic)
+- [#BLM Australia](https://docs.google.com/document/d/1xabcfdcX9dRNblOtR8UC0mA50aP0G18g_hSIpyTKJ4s/mobilebasic)
 - [Antiracist Allyship Starter Pack (Articles, Books, PDFs, Podcasts, Films, etc.)](https://docs.google.com/spreadsheets/d/1bUJrgX8vspyy7YttiEC2vD0DawrpPYiZs94V0ov7qZQ/edit?usp=sharing)
 - [Letters to Your Parents About BLM](https://docs.google.com/document/d/1qwon6Q-h3YC2n_vZGKIVxZxEhXG8ZQah4IVCMQzGaUk/edit)
 - [Racism and Anti-Blackness](https://docs.google.com/spreadsheets/d/1bUJrgX8vspyy7YttiEC2vD0DawrpPYiZs94V0ov7qZQ/htmlview)
@@ -215,6 +265,7 @@ Use zip codes such as **90001** (L.A.), **75001** (Dallas, Texas) or **10001** (
 - [BLM Google Doc 3](https://docs.google.com/document/d/1-0KC83vYfVQ-2freQveH43PWxuab2uWDEGolzrNoIks/mobilebasic)
 - [BLM Google Doc 4](https://docs.google.com/document/d/12y7-Wa4gi8HUeFTv17gPcbMGuVX5cqIudLJmhOrq1-k/mobilebasic)
 - [Books by Black Activists](https://drive.google.com/drive/u/0/folders/1mljH99Nwy-SfgbDec-UDHSrrN1_JLmwB)
+- [Education Resources Doc](https://docs.google.com/document/d/11DKdCd4AUmwcG6igDLz9rlYJcdrJzGP6cmy3s7gNgDQ/mobilebasic)
 
 # Books
 - [*So You Want to Talk About Race* by Ijeoma Oluo](http://www.ijeomaoluo.com/writing) [(@IjeomaOluo)](https://twitter.com/IjeomaOluo)
